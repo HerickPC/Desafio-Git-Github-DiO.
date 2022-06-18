@@ -1,0 +1,18 @@
+Comandos básicos Git:
+
+- ls   				(Exibe conteúdo de pastas e documentos)
+- cd 				(Serve para se mover entre as pastas)
+- mkdir	 			(Cria pasta)
+- git init	 			(Cria sub-pasta ".git" para comecar o commite)
+- git status	 			(Mostra se há alguma alteração não commitada)
+- git config --list 			(Mostra os detalhes das suas configurações Git)
+- ls -a 				(Mostra arquivos ocultos)
+- git add *				(Adiciona todas as alterações ao commit)
+- git commiit -m "___" 			(Realiza o commite)
+- git clone ______			(Copia um repositório do GitHub)
+- git push origen main			(Encaminha ou commit para o GitHub)
+-  git pull origen main			(Baixa alguma atualização do GitHub)
+- git config --global --unset user. email	(Remove o Email, das configurações Git)
+- git config --global --unset user. name	(Remove o nome do usuário das configurações Git)
+- git config --global user. name		(Serve para colocar um nome de usuário nas configurações Git)
+- git config --global user. email		(Serve para colocar um email de usuário nas configurações Git)
